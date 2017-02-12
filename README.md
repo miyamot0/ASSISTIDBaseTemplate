@@ -1,5 +1,5 @@
 # ASSISTIDBaseTemplate
-ASSISTIDBaseTemplate is a Xamarin Forms template for applications used in behavioral research.  The template includes a local database, methods for displaying a list of interest, and the capability to save user interactions when used.  The project is licensed under the MPL-2.0 to encourage easy replication and extension by users in research.
+ASSISTIDBaseTemplate is a Xamarin Forms template for applications used in behavioral research. The template includes a local database, methods for displaying a list of interest, and the capability to save user interactions when used. These solutions work for Android and iOS solutions and will appear and behavior similarly across both platforms, for both phone and tablet applications.  The project is licensed under the MPL-2.0 to encourage easy replication and extension by users in research using mobile devices.
 
 Features include:
   - Local database
