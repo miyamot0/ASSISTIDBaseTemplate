@@ -1,0 +1,37 @@
+﻿ASSISTID Application Template
+Copyright 2016 and onwards, Shawn Gilroy, under the Mozilla Public License Version 2.0
+
+This product includes software and content developed by others.
+
+--------------------------------------------------------------------------------
+
+This project utilizes Newtonsoft.Json, which has been developed by James Newton-King.
+
+Copyright (c) 2007 James Newton-King.
+
+  * LICENSE:
+    * /LICENSE-Newtonsoft.Json (MIT)
+  * HOMEPAGE:
+    * https://github.com/JamesNK/Newtonsoft.Json
+	
+--------------------------------------------------------------------------------
+
+This project utilizes Xamarin Forms, which has been developed by Xamarin Inc and .NET Foundation Contributors.
+
+Copyright (c) .NET Foundation Contributors
+
+  * LICENSE:
+    * /LICENSE-Xamarin.Forms (MIT)
+  * HOMEPAGE:
+    * https://github.com/xamarin/Xamarin.Forms
+	
+--------------------------------------------------------------------------------
+
+This project utilizes Xamarin Plugins, which has been developed by Antonio Feregrino
+
+Copyright (c) 2016 Antonio Feregrino
+
+  * LICENSE:
+    * /LICENSE-Forms.Checkbox (MIT)
+  * HOMEPAGE:
+    * https://github.com/messier16/Forms.Checkbox
