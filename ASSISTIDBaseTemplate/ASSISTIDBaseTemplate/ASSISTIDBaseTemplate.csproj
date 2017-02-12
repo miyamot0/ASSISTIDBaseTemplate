@@ -89,6 +89,7 @@
     <None Include="Licenses\LICENSE-Newtonsoft.Json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Include="Licenses\LICENSE-SQLite.NET-PCL" />
     <None Include="Licenses\LICENSE-Xamarin.Forms">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
